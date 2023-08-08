@@ -36,5 +36,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "nanoid": "^4.0.2",
+    "normalize.css": "^8.0.1",
+    "notiflix": "^3.2.6",
+    "prop-types": "^15.8.1",
+    "styled-components": "^6.0.7"
   }
 }
