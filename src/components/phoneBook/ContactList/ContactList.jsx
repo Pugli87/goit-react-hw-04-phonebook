@@ -8,7 +8,7 @@ import {
   ContactNumber,
   ContBotton,
   Button,
-} from '../stylesComponents/ContactList.styled';
+} from '../stylesComponents/ContactListStyled';
 
 function ContactItem({ contact, deleteContact }) {
   const handleDelete = () => {

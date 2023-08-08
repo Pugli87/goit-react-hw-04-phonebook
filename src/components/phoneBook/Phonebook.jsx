@@ -2,11 +2,7 @@ import React, { Component } from 'react';
 import ContactForm from './ContactForm/ContactForm';
 import ContactList from './ContactList/ContactList';
 import Filter from './Filter/Filter';
-import {
-  Container,
-  Title,
-  Heading2,
-} from './stylesComponents/Phonebook.styled';
+import { Container, Title, Heading2 } from './stylesComponents/PhonebookStyled';
 import PropTypes from 'prop-types';
 
 class Phonebook extends Component {

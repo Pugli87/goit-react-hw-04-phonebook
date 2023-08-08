@@ -1,5 +1,5 @@
 import React from 'react';
-import { Input } from '../stylesComponents/Filter.styled';
+import { Input } from '../stylesComponents/FilterStyled';
 import PropTypes from 'prop-types';
 
 function Filter({ filter, setFilter }) {

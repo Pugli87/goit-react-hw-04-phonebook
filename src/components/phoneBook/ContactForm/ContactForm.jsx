@@ -7,7 +7,7 @@ import {
   Button,
   Text,
   SubTitle,
-} from '../stylesComponents/ContactForm.styled';
+} from '../stylesComponents/ContactFormStyled';
 import PropTypes from 'prop-types';
 
 class ContactForm extends Component {
