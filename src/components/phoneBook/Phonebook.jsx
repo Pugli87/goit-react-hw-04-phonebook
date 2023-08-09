@@ -46,6 +46,7 @@ const Phonebook = () => {
       setContacts(JSON.parse(storedContacts));
     }
   }, []);
+
   return (
     <>
       <Title>phonebook</Title>
